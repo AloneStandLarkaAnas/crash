@@ -48,7 +48,6 @@ commands = [
     'pkg install python -y',
     'clear',
     'pkg install python3 -y',
-    'pkg install node -y',
     'termux-setup-storage',
     f'cd {bot_folder_path}',
     'pkg install zip -y',
